@@ -4,7 +4,9 @@ Database Group Project (CS 1555)
 Files I was solely responsible for:
 
 team1-triggers.sql
+
 team1-trigger-test.sql
+
 
 BetterFutures.java	(Main)
 
