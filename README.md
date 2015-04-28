@@ -7,12 +7,19 @@ team1-triggers.sql
 team1-trigger-test.sql
 
 BetterFutures.java	(Main)
+
 Transaction.java	(the base Command (Transaciton) class with some default implementation defined)
+
 LoginTransaction.java
+
 NewCustomerTransaction.java
+
 UpdateDateTimeTransaction.java
+
 UpdateQuotesTransaction.java
+
 ViewStatisticsTransactions.java
+
 AddFundTransation.java
 
 I contributed the blank templates of all other Transaction files for my partner to fill in with the logic.
